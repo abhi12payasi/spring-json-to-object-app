@@ -1,0 +1,10 @@
+{
+  "name" : "Abhishek Payasi" ,
+  "age" : 24 ,
+  "salary" : 34332 ,
+  "taskList" : "DEV DEPLOY TEST MAINTAIN",
+  "department" : {
+    "name" : "IT-DEV" ,
+    "createdOn" : "02-03-2020|dd-mm-yyyy"
+  }
+}
